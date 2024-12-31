@@ -11,6 +11,7 @@ Leet code problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 ## Memoization
 |  |
@@ -19,9 +20,14 @@ Leet code problems
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
