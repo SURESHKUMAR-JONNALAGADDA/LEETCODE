@@ -25,9 +25,22 @@ Leet code problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
