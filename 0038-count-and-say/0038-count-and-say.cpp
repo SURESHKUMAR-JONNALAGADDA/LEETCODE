@@ -2,20 +2,24 @@ class Solution {
 public:
     string countAndSay(int n) {
         if(n==1)
-            return "1";
-        string s=countAndSay(n-1);
-        int m=s.length();
-        string rs;
-        for(int i=0;i<m;i++)
+        return "1";
+        if(n==2)
+        return "11";
+        string r=countAndSay(n-1);
+        cout<<r<<endl;
+        int l=r.length();
+        string rs="";
+        int c=0;
+        for(int i=1;i<=l;i++)
         {
-            int c=1;
-            while(s[i]==s[i+1] && i<m-1)
+            c=1;
+            while(r[i-1]==r[i]&& i<l)
             {
                 c++;
                 i++;
             }
             rs+=to_string(c);
-            rs+=s[i];
+            rs+=r[i-1];
         }
         return rs;
     }
