@@ -48,4 +48,8 @@ Leet code problems
 |  |
 | ------- |
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
