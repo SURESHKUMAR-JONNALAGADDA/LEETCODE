@@ -7,6 +7,7 @@ Leet code problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Leet code problems
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+| [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -39,6 +41,7 @@ Leet code problems
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
+| [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +54,7 @@ Leet code problems
 |  |
 | ------- |
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
+| [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 ## String
 |  |
 | ------- |
