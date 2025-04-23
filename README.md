@@ -8,6 +8,7 @@ Leet code problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ Leet code problems
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 ## Depth-First Search
 |  |
 | ------- |
