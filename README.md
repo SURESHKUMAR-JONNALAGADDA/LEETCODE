@@ -31,6 +31,7 @@ Leet code problems
 | [2249-count-the-hidden-sequences](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Leet code problems
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Leet code problems
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
