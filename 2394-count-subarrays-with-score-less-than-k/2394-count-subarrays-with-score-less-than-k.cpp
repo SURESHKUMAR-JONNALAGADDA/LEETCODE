@@ -8,7 +8,6 @@ public:
         
         for (int right = 0; right < n; right++) {
             sum += nums[right];
-            // While the condition is violated, shrink the window from the left
             while (sum * (right - left + 1) >= k) {
                 sum -= nums[left];
                 left++;
