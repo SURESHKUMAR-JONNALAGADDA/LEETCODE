@@ -8,6 +8,7 @@ Leet code problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ Leet code problems
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2249-count-the-hidden-sequences](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
