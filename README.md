@@ -11,6 +11,7 @@ Leet code problems
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ Leet code problems
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
@@ -65,6 +67,7 @@ Leet code problems
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,6 +87,7 @@ Leet code problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
@@ -152,4 +156,8 @@ Leet code problems
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
