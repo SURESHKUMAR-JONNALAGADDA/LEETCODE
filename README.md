@@ -52,6 +52,7 @@ Leet code problems
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
 | ------- |
