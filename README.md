@@ -41,6 +41,7 @@ Leet code problems
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1293-three-consecutive-odds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
