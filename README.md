@@ -42,6 +42,7 @@ Leet code problems
 | [1293-three-consecutive-odds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -66,6 +67,7 @@ Leet code problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
