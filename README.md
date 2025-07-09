@@ -66,6 +66,7 @@ Leet code problems
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
@@ -116,6 +117,7 @@ Leet code problems
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Leet code problems
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
