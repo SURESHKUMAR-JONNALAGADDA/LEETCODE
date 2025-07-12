@@ -25,6 +25,7 @@ Leet code problems
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -36,6 +37,7 @@ Leet code problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Array
 |  |
 | ------- |
