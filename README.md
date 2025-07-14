@@ -8,6 +8,7 @@ Leet code problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -140,6 +141,7 @@ Leet code problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
