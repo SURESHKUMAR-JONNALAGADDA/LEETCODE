@@ -131,6 +131,7 @@ Leet code problems
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3396-valid-word](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
