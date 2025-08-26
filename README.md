@@ -71,6 +71,7 @@ Leet code problems
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
