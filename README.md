@@ -80,6 +80,7 @@ Leet code problems
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Leet code problems
 | [3618-find-the-original-typed-string-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Leet code problems
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
 |  |
 | ------- |
