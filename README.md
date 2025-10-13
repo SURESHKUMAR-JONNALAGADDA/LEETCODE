@@ -52,6 +52,7 @@ Leet code problems
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -108,6 +109,7 @@ Leet code problems
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -145,6 +147,7 @@ Leet code problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3396-valid-word) |
@@ -177,6 +180,7 @@ Leet code problems
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
