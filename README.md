@@ -26,6 +26,7 @@ Leet code problems
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -56,6 +57,7 @@ Leet code problems
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -136,6 +138,7 @@ Leet code problems
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2689-rearranging-fruits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -278,4 +281,12 @@ Leet code problems
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
