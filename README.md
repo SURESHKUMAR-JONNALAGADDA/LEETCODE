@@ -130,6 +130,7 @@ Leet code problems
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
@@ -297,4 +298,8 @@ Leet code problems
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
