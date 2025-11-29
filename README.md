@@ -8,6 +8,7 @@ Leet code problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1500-count-largest-group) |
@@ -27,6 +28,7 @@ Leet code problems
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+| [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -102,6 +104,7 @@ Leet code problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
