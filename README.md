@@ -50,6 +50,7 @@ Leet code problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -189,6 +190,7 @@ Leet code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
