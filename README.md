@@ -51,6 +51,7 @@ Leet code problems
 |  |
 | ------- |
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -117,6 +118,7 @@ Leet code problems
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0940-fruit-into-baskets) |
@@ -193,6 +195,7 @@ Leet code problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
