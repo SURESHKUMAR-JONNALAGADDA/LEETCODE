@@ -53,6 +53,7 @@ Leet code problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0135-candy](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -105,6 +106,7 @@ Leet code problems
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -191,6 +193,7 @@ Leet code problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -282,6 +285,7 @@ Leet code problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
