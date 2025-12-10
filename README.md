@@ -17,6 +17,7 @@ Leet code problems
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -91,6 +92,7 @@ Leet code problems
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -230,6 +232,7 @@ Leet code problems
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
@@ -319,4 +322,8 @@ Leet code problems
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
