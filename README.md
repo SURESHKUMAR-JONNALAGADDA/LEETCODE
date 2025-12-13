@@ -95,6 +95,7 @@ Leet code problems
 | [3531-count-covered-buildings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -140,6 +141,7 @@ Leet code problems
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Depth-First Search
@@ -176,6 +178,7 @@ Leet code problems
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3396-valid-word) |
+| [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -220,6 +223,7 @@ Leet code problems
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
