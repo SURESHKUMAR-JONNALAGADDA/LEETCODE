@@ -113,6 +113,7 @@ Leet code problems
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+| [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,12 +154,14 @@ Leet code problems
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+| [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+| [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Greedy
 |  |
@@ -222,6 +225,7 @@ Leet code problems
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2479-meeting-rooms-iii) |
@@ -340,4 +344,8 @@ Leet code problems
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
