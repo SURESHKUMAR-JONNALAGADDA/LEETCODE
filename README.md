@@ -31,6 +31,7 @@ Leet code problems
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
 | [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -64,6 +65,7 @@ Leet code problems
 | [0759-set-intersection-size-at-least-two](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1293-three-consecutive-odds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -183,6 +185,7 @@ Leet code problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
