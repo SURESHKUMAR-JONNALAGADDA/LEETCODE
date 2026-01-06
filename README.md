@@ -115,6 +115,7 @@ Leet code problems
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@ Leet code problems
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -341,6 +343,7 @@ Leet code problems
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Brainteaser
@@ -351,4 +354,8 @@ Leet code problems
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
