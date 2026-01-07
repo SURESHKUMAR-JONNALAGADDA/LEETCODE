@@ -158,6 +158,7 @@ Leet code problems
 | ------- |
 | [0133-clone-graph](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0133-clone-graph) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -344,6 +345,7 @@ Leet code problems
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Brainteaser
@@ -358,4 +360,5 @@ Leet code problems
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
