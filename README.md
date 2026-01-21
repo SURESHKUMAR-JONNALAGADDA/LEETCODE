@@ -94,6 +94,7 @@ Leet code problems
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -316,6 +317,7 @@ Leet code problems
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
