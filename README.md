@@ -98,6 +98,7 @@ Leet code problems
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -149,6 +150,7 @@ Leet code problems
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
@@ -206,6 +208,7 @@ Leet code problems
 | ------- |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Leet code problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +291,7 @@ Leet code problems
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
@@ -329,6 +334,7 @@ Leet code problems
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
@@ -363,4 +369,8 @@ Leet code problems
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
