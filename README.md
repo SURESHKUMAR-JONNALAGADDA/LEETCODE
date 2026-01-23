@@ -224,6 +224,7 @@ Leet code problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -271,6 +272,7 @@ Leet code problems
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0940-fruit-into-baskets) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
