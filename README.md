@@ -47,6 +47,7 @@ Leet code problems
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Leet code problems
 | [3583-count-special-triplets](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -304,6 +306,7 @@ Leet code problems
 | ------- |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
