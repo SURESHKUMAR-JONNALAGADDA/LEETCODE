@@ -6,6 +6,7 @@ Leet code problems
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0887-super-egg-drop](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0887-super-egg-drop) |
@@ -196,6 +197,7 @@ Leet code problems
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -330,6 +332,7 @@ Leet code problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -343,6 +346,7 @@ Leet code problems
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
 | [2479-meeting-rooms-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2479-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
