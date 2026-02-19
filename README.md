@@ -198,6 +198,7 @@ Leet code problems
 | ------- |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -230,6 +231,7 @@ Leet code problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
