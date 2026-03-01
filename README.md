@@ -185,6 +185,7 @@ Leet code problems
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2689-rearranging-fruits](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -201,6 +202,7 @@ Leet code problems
 | [0696-count-binary-substrings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3396-valid-word) |
