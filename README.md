@@ -114,6 +114,7 @@ Leet code problems
 | [3651-minimum-cost-path-with-teleportations](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -162,6 +163,7 @@ Leet code problems
 | [3606-coupon-code-validator](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Depth-First Search
 |  |
 | ------- |
