@@ -16,7 +16,6 @@ public:
             {
                 for(int i=0;i<(x.second.size()-2);i++)
                 {
-                    cout<<x.second[i]<<endl;
                     if(ans==-1)
                     {
                         ans=(x.second[i+2]-x.second[i])*2;
