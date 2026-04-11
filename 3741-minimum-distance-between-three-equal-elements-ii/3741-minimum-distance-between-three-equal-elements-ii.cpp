@@ -22,8 +22,7 @@ public:
                     }
                     else
                     {
-                        int s = ((x.second[i+2]-x.second[i])*2);
-                        ans = min(ans,s);
+                        ans = min(ans,(x.second[i+2]-x.second[i])*2);
                     }
                 }
             }
