@@ -7,11 +7,9 @@ public:
         {
             m[nums[i]]++;
         }
-        for(auto x:m)
-        {
-            if(x.second>1)
-            return true;
-        }
+        if(m.size()<n)
+        return true;
+        else
         return false;
     }
 };
