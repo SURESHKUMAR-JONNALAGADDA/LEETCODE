@@ -28,6 +28,7 @@ Leet code problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0322-coin-change) |
@@ -200,6 +201,7 @@ Leet code problems
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -396,4 +398,12 @@ Leet code problems
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SURESHKUMAR-JONNALAGADDA/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
